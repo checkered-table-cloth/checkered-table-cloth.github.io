@@ -9651,7 +9651,7 @@ aAC:function aAC(){},
 aEW(){var s=0,r=A.F(t.H),q,p
 var $async$aEW=A.A(function(a,b){if(a===1)return A.C(b,r)
 while(true)switch(s){case 0:s=2
-return A.H($.f0().CG(0,".env"),$async$aEW)
+return A.H($.f0().CG(0,"dotenv"),$async$aEW)
 case 2:A.b6s()
 if($.a2==null)A.aOI()
 q=$.a2
