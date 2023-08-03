@@ -1,6 +1,7 @@
 ENV=prod
 USER_API_URL=gabgemc589.execute-api.us-west-1.amazonaws.com
 USER_API_BASE_PATH=/dev/api
+API_KEY=z6CbXQYpTdaberQmtopBr7IRDIwYVqn24hQPvM0D
 BUY_ME_A_COFFEE=https://www.buymeacoffee.com/marilynm1119
 TWITTER=https://twitter.com/Marilyn37702807
 INSTAGRAM=https://www.instagram.com/hankrayne1119/
