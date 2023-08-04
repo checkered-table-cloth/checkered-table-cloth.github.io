@@ -1,8 +1,8 @@
 ENV=local
-#USER_API_URL=10.0.2.2:3000 #android
-#USER_API_URL=localhost:3000 #web and ios
 USER_API_URL=192.168.200.23:3000 #ios device
 USER_API_BASE_PATH=/api
+#USER_API_URL=10.0.2.2:3000 #android
+#USER_API_URL=localhost:3000 #web and ios
 API_KEY=z6CbXQYpTdaberQmtopBr7IRDIwYVqn24hQPvM0D
 #ENV=dev
 #USER_API_URL=gabgemc589.execute-api.us-west-1.amazonaws.com
